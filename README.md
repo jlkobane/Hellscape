@@ -11,15 +11,25 @@ Unity and C#
 
 ## User Stories: 
 AAU, I want the map to be large and open so I can move around easily.
+
 AAU, I want to be able to move around freely without any problems.
+
 AAU, I want my gun to be able to shoot.
+
 AAU, I want at least one enemy who can move and attack me.
+
 AAU, I want me and the enemy to trade damage.
+
 AAU, I want a health bar so I can see when I am about to die.
+
 AAU, I want a start screen and an end screen. 
+
 AAU, I want at least 2-3 different kinds of weapons at my disposal.
+
 AAU, I want a couple of different enemy types for more of a challenge.
+
 AAU, I want to be a boss level after defeating a certain amount of enemies.
+
 AAU, I want there to be different difficulty levels.
 ## Wireframe: 
 <img width="671" alt="Screen Shot 2022-11-07 at 9 37 19 AM" src="https://user-images.githubusercontent.com/111748987/200364995-62083acb-9193-4ce6-8ef1-8cd887379fc8.png">
