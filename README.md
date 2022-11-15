@@ -37,6 +37,3 @@ AAU, I want there to be different difficulty levels.
 ## Unsolved problems: 
 
 None that I saw. 
-
-## Deployment: 
-https://jlkobane.itch.io/hellscape
